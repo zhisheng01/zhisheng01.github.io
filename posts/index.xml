@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 02 Aug 2022 16:54:22 +0800</lastBuildDate><atom:link href="https://zhisheng01.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>MT4SSL</title>
+      <link>https://zhisheng01.github.io/posts/mt4ssl/</link>
+      <pubDate>Fri, 09 Dec 2022 10:07:08 +0800</pubDate>
+      
+      <guid>https://zhisheng01.github.io/posts/mt4ssl/</guid>
+      <description>MT4SSL: BOOSTING SELF-SUPERVISED SPEECH REPRESENTATION LEARNING BY INTEGRATING MULTIPLE TARGETS</description>
+    </item>
+    
+    <item>
       <title>My first blog</title>
       <link>https://zhisheng01.github.io/posts/my-first-blog/</link>
       <pubDate>Thu, 28 Jul 2022 14:56:28 +0800</pubDate>
