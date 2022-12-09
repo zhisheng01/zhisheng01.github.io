@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://zhisheng01.github.io/sitemap.xml
